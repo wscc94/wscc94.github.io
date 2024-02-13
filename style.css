@@ -1,0 +1,7 @@
+#bgimg{
+    height: 100vh;
+    width: 100vw;
+    background-image: url(n1.jpg);
+    background-size:cover;
+    background-position: center;
+  }
