@@ -36,13 +36,10 @@ h2 {
 }
 
 .container {
-    display: flexbox;
+    display: flex;
     flex-direction: column;
     justify-content: space-between;
-    align-items: stretch;
-    height: 500px;
-}
-
-.bottom-item {
-    align-self: flex-end;
+    align-items: center;
+    align-content: center;
+    height: 100%;
 }
