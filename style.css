@@ -43,3 +43,7 @@ h2 {
     align-content: center;
     height: 100%;
 }
+
+.top-item, .middle-item, .bottom-item {
+    padding: 2%;
+}
