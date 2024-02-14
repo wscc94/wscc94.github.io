@@ -38,7 +38,7 @@ h2 {
 .container {
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     align-content: center;
     height: 100%;
